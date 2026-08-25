@@ -66,7 +66,7 @@ https://cdn.sensa.com.ar/live/eds/NETTV/live_dash_cld/NETTV.mpd?|referer=https:/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/HGTV/live_dash_cld/HGTV.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_home_and_health_latinoamerica-mediano.png", Discovery Home & Health.mx
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_home_and_health_latinoamerica-mediano.png", DiscoveryHomeAndHealth.ar
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=73f141744a7aa50a45f9819f0e5bce8b:594eff3d094876954e699d548874c58f
 #EXTVLCOPT:http-origin=https://player.sensa.com.ar
@@ -74,7 +74,7 @@ https://cdn.sensa.com.ar/live/eds/HGTV/live_dash_cld/HGTV.mpd?|referer=https://p
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/HomeHealth/live_dash_cld/HomeHealth.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/e_-mediano.png", E!.mx
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/e_-mediano.png", E!.uy
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0839729159fd400250f90532f41b65f3:992972a1b89982c359c4b4a5f8034eed
 #EXTVLCOPT:http-origin=https://player.sensa.com.ar
@@ -82,7 +82,7 @@ https://cdn.sensa.com.ar/live/eds/HomeHealth/live_dash_cld/HomeHealth.mpd?|refer
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/Entertaiment/live_dash_cld/Entertaiment.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tlc-mediano.png", DISCOVERY TLC.mx
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tlc-mediano.png", TLC.ar
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bed07c7fbbc6a3024baa8a44c052dd59:a632dead698156b3f2083076aa192b57
 #EXTVLCOPT:http-origin=https://player.sensa.com.ar
@@ -90,7 +90,7 @@ https://cdn.sensa.com.ar/live/eds/Entertaiment/live_dash_cld/Entertaiment.mpd?|r
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/DiscoveryTravelAndLiving/live_dash_cld/DiscoveryTravelAndLiving.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_novelas_latinoamerica-mediano.png", TNT NOVELAS.mx
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_novelas_latinoamerica-mediano.png", TNT Novelas.ar
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8a026fc3d443454cf1aae486b688ca9a:7665c2f6e791d44f047e5ffa927382aa
 #EXTVLCOPT:http-origin=https://player.sensa.com.ar
@@ -109,7 +109,7 @@ https://cdn.sensa.com.ar/live/eds/TNTNovelas/live_dash_cld/TNTNovelas.mpd?|refer
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/MasChic/live_dash_cld/MasChic.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/lifetime_latinoamerica-mediano.png", LIFETIME.mx
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/lifetime_latinoamerica-mediano.png", Lifetime.ar
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6f85d8282bb6fe2db8f34299d5742f02:28d49f409d718ecad8f82f477d3beb77
 #EXTVLCOPT:http-origin=https://player.sensa.com.ar
@@ -129,7 +129,7 @@ https://cdn.sensa.com.ar/live/eds/Lifetime/live_dash_cld/Lifetime.mpd?|referer=h
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_channel-mediano.png", Discovery HD.mx
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_channel-mediano.png", Discovery.ar
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=74ec986b3388c62f5fa7c551e225d0b8:9327821de5eace5508cf573778c8c3c3
 #EXTVLCOPT:http-origin=https://player.sensa.com.ar
@@ -137,7 +137,7 @@ https://cdn.sensa.com.ar/live/eds/Lifetime/live_dash_cld/Lifetime.mpd?|referer=h
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/DiscoveryChannel/live_dash_cld/DiscoveryChannel.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nationalgeographicla.com/images/logo.png", National Geographic.mx
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nationalgeographicla.com/images/logo.png", National Geographic.ar
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e44c7a4a62dc2bea573f5b21ea78342b:bf1996a534ea01086d0b8e284f0f4e7b
 #EXTVLCOPT:http-origin=https://player.sensa.com.ar
@@ -145,7 +145,7 @@ https://cdn.sensa.com.ar/live/eds/DiscoveryChannel/live_dash_cld/DiscoveryChanne
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/NatGeo/live_dash_cld/NatGeo.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/historia_espana-mediano.png", History.mx
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/historia_espana-mediano.png", History.ar
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3729d075c1a22d06bd6978c941ff0d13:c106c6d1dd58f4f14b6ebe6c8672fd0b
 #EXTVLCOPT:http-origin=https://player.sensa.com.ar
@@ -153,7 +153,7 @@ https://cdn.sensa.com.ar/live/eds/NatGeo/live_dash_cld/NatGeo.mpd?|referer=https
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/History/live_dash_cld/History.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png", H2.mx
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png", History 2.ar
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=454a4c570f8b662076ce4f1a931d3b06:2e7233e228d7d8a203e07e2b08584019
 #EXTVLCOPT:http-origin=https://player.sensa.com.ar
@@ -161,7 +161,7 @@ https://cdn.sensa.com.ar/live/eds/History/live_dash_cld/History.mpd?|referer=htt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/History2/live_dash_cld/History2.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/animal_planet_latinoamerica-mediano.png", Animal Planet.mx
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/animal_planet_latinoamerica-mediano.png", Animal Planet.ar
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dbea5682978c5593d7f9f32ba3fbd000:992754095f050d53163c059ff4e81571
 #EXTVLCOPT:http-origin=https://player.sensa.com.ar
@@ -169,7 +169,7 @@ https://cdn.sensa.com.ar/live/eds/History2/live_dash_cld/History2.mpd?|referer=h
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/AnimalPlanet/live_dash_cld/AnimalPlanet.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 tvg-id="232495" tvg-name="Discovery Turbo.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_turbo-mediano.png", DISCOVERY TURBO.mx
+#EXTINF:-1 tvg-id="232495" tvg-name="Discovery Turbo.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_turbo-mediano.png", Discovery Turbo.ar
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6902d50ec036d30146b12b927f4363d4:d40dc5eb6e0f8fbd58ab7dd6b91143b5
 #EXTVLCOPT:http-origin=https://player.sensa.com.ar
@@ -177,7 +177,7 @@ https://cdn.sensa.com.ar/live/eds/AnimalPlanet/live_dash_cld/AnimalPlanet.mpd?|r
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/DiscoveryTurbo/live_dash_cld/DiscoveryTurbo.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_world-mediano.png", Discovery World.mx
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_world-mediano.png", Discovery World.ar
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b94901c6926870683c5baebc63496653:f04da24cd7eba6dfdd0d66ea2a2feb24
 #EXTVLCOPT:http-origin=https://player.sensa.com.ar
